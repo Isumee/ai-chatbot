@@ -1,0 +1,35 @@
+[
+    {
+        "city": "Paris",
+        "country": "France",
+        "start_date": "2025-08-10",
+        "end_date": "2025-08-15",
+        "budget": 1230000.0,
+        "activities": [
+            "Eiffel Tower",
+            "Louvre Museum"
+        ]
+    },
+    {
+        "city": "Tokyo",
+        "country": "Japan",
+        "start_date": "2025-09-01",
+        "end_date": "2025-09-07",
+        "budget": 1800,
+        "activities": [
+            "Shinjuku",
+            "Mount Fuji Tour"
+        ]
+    },
+    {
+        "city": "Kandy",
+        "country": "Sri Lanka",
+        "start_date": "2024-12-10",
+        "end_date": "2025-01-13",
+        "budget": 500000.0,
+        "activities": [
+            "Walking",
+            "Hiking"
+        ]
+    }
+]
